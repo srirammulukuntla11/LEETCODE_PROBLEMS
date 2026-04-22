@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0063-unique-paths-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0120-triangle) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0064-minimum-path-sum) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Binary Search
 |  |
@@ -92,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0011-container-with-most-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
