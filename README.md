@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0136-single-number) |
 | [0213-house-robber-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0322-coin-change) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0136-single-number) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Sorting
 |  |
