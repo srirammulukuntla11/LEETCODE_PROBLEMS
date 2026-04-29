@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0134-gas-station](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0136-single-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0213-house-robber-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0213-house-robber-ii) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0135-candy) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Stack
 |  |
