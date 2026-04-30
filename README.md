@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0062-unique-paths) |
 | [0368-largest-divisible-subset](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0368-largest-divisible-subset) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0044-wildcard-matching](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0115-distinct-subsequences) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0013-roman-to-integer) |
 | [1048-longest-string-chain](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1048-longest-string-chain) |
 ## Binary Indexed Tree
 |  |
