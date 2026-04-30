@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0867-transpose-matrix](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0867-transpose-matrix) |
 | [1048-longest-string-chain](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1048-longest-string-chain) |
 | [1463-cherry-pickup-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0064-minimum-path-sum) |
+| [0867-transpose-matrix](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0867-transpose-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1463-cherry-pickup-ii) |
 ## Two Pointers
 |  |
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0274-h-index) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
