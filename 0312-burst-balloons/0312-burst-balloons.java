@@ -1,0 +1,39 @@
+class Solution {
+
+    public int f(int i, int j, int[] a,int[][] dp) {
+        if (i > j) return 0;
+        if(dp[i][j] != -1) return dp[i][j];
+        int maxi = Integer.MIN_VALUE;
+
+        for (int ind = i; ind <= j; ind++) {
+            int cost = a[i - 1] * a[ind] * a[j + 1]
+                    + f(i, ind - 1, a,dp)
+                    + f(ind + 1, j, a,dp);
+
+            maxi = Math.max(maxi, cost);
+        }
+
+        return dp[i][j] = maxi;
+    }
+
+    public int maxCoins(int[] nums) {
+
+        int n = nums.length;
+        int[][] dp = new int[n+2][n+2];
+        for(int i = 0;i<n+2;i++)
+        {
+            Arrays.fill(dp[i],-1);
+        }
+        // 🔥 create new array with 1 at beginning and end
+        int[] a = new int[n + 2];
+
+        a[0] = 1;
+        a[n + 1] = 1;
+
+        for (int i = 0; i < n; i++) {
+            a[i + 1] = nums[i];
+        }
+          
+        return f(1, n, a,dp);
+    }
+}
