@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0867-transpose-matrix) |
 | [1043-partition-array-for-maximum-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1048-longest-string-chain) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1092-shortest-common-supersequence) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0064-minimum-path-sum) |
 | [0867-transpose-matrix](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0867-transpose-matrix) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1463-cherry-pickup-ii) |
 ## Two Pointers
 |  |
