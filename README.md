@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0075-sort-colors) |
+| [0085-maximal-rectangle](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0064-minimum-path-sum) |
+| [0085-maximal-rectangle](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0085-maximal-rectangle) |
 | [0867-transpose-matrix](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0867-transpose-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1463-cherry-pickup-ii) |
@@ -176,11 +179,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0085-maximal-rectangle) |
 | [1106-parsing-a-boolean-expression](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1106-parsing-a-boolean-expression) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0085-maximal-rectangle) |
 ## Recursion
 |  |
 | ------- |
