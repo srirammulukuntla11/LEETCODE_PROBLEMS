@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0075-sort-colors) |
+| [0455-assign-cookies](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0455-assign-cookies) |
 | [1048-longest-string-chain](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1048-longest-string-chain) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Binary Search
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0075-sort-colors) |
 | [0274-h-index](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0274-h-index) |
 | [0368-largest-divisible-subset](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0368-largest-divisible-subset) |
+| [0455-assign-cookies](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0455-assign-cookies) |
 | [1048-longest-string-chain](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1048-longest-string-chain) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0135-candy) |
+| [0455-assign-cookies](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0455-assign-cookies) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 ## Stack
 |  |
