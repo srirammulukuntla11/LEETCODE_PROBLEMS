@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0583-delete-operation-for-two-strings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1043-partition-array-for-maximum-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1048-longest-string-chain) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0132-palindrome-partitioning-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0583-delete-operation-for-two-strings) |
+| [0678-valid-parenthesis-string](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0678-valid-parenthesis-string) |
 | [1048-longest-string-chain](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1092-shortest-common-supersequence) |
 | [1106-parsing-a-boolean-expression](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1106-parsing-a-boolean-expression) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0678-valid-parenthesis-string) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0860-lemonade-change) |
 ## Stack
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0085-maximal-rectangle) |
+| [0678-valid-parenthesis-string](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0678-valid-parenthesis-string) |
 | [1106-parsing-a-boolean-expression](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1106-parsing-a-boolean-expression) |
 ## Monotonic Stack
 |  |
