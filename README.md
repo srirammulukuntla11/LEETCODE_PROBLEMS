@@ -248,4 +248,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1707-maximum-xor-with-an-element-from-array) |
+## Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
