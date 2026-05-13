@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1092-shortest-common-supersequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1463-cherry-pickup-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -303,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Iterator
 |  |
 | ------- |
