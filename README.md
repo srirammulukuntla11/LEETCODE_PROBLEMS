@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Sorting
 |  |
 | ------- |
