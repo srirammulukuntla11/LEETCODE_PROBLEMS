@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0062-unique-paths) |
+| [0231-power-of-two](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0368-largest-divisible-subset) |
 ## Combinatorics
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0231-power-of-two) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0044-wildcard-matching) |
+| [0231-power-of-two](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0231-power-of-two) |
 | [1106-parsing-a-boolean-expression](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1106-parsing-a-boolean-expression) |
 ## Hash Table
 |  |
