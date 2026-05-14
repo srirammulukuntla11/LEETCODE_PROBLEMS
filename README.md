@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0078-subsets) |
 | [0085-maximal-rectangle](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0085-maximal-rectangle) |
 | [0120-triangle](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0231-power-of-two) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0494-target-sum) |
 ## String
 |  |
