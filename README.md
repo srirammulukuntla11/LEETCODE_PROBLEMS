@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0368-largest-divisible-subset) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Combinatorics
 |  |
 | ------- |
