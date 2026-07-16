@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0867-transpose-matrix) |
+| [0912-sort-an-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0912-sort-an-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1043-partition-array-for-maximum-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1048-longest-string-chain) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0368-largest-divisible-subset) |
 | [0435-non-overlapping-intervals](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0455-assign-cookies) |
+| [0912-sort-an-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0912-sort-an-array) |
 | [1048-longest-string-chain](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1048-longest-string-chain) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0274-h-index) |
+| [0912-sort-an-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0912-sort-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -347,4 +350,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0509-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
