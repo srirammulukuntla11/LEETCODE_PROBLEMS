@@ -397,4 +397,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0912-sort-an-array) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
