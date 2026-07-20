@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0540-single-element-in-a-sorted-array) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
+| [0493-reverse-pairs](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0540-single-element-in-a-sorted-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bit Manipulation
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0493-reverse-pairs) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bitmask
 |  |
@@ -309,10 +312,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0493-reverse-pairs) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Counting Sort
 |  |
@@ -412,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -420,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
