@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0136-single-number) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
@@ -423,4 +425,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1729-find-followers-count](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1729-find-followers-count) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
