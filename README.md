@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0085-maximal-rectangle) |
+| [0155-min-stack](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0173-binary-search-tree-iterator) |
 | [0678-valid-parenthesis-string](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0678-valid-parenthesis-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0208-implement-trie-prefix-tree) |
 ## Trie
