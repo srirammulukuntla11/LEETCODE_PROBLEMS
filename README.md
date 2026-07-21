@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0620-not-boring-movies) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1211-queries-quality-and-percentage](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1211-queries-quality-and-percentage) |
 | [1683-invalid-tweets](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1729-find-followers-count) |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1741-find-total-time-spent-by-each-employee) |
