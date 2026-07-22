@@ -1,26 +1,19 @@
 import java.util.*;
-
 class StockSpanner {
-
-    Stack<int[]> stk;
-    int index;
-
-    public StockSpanner() {
-        stk = new Stack<>();
-        index = -1;
-    }
-    
-    public int next(int price) {
-        index++;
-
-        while(!stk.isEmpty() && stk.peek()[0] <= price) {
-            stk.pop();
+        private  Stack<int[]> stack;
+        public StockSpanner()
+        {
+            stack = new Stack<>();
         }
 
-        int ans = index - (stk.isEmpty() ? -1 : stk.peek()[1]);
-
-        stk.push(new int[]{price, index});
-
-        return ans;
+    public int next(int price) {
+            int span = 1;
+            while(!stack.isEmpty() && stack.peek()[0] <= price)
+            {
+                span += stack.peek()[1];
+                stack.pop();
+            }
+            stack.push(new int[]{price,span});
+            return span;
     }
 }
