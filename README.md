@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0132-palindrome-partitioning-ii) |
 | [0205-isomorphic-strings](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0344-reverse-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0583-delete-operation-for-two-strings) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
