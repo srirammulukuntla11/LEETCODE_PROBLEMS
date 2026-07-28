@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0678-valid-parenthesis-string) |
+| [1021-remove-outermost-parentheses](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1092-shortest-common-supersequence) |
 | [1106-parsing-a-boolean-expression](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1106-parsing-a-boolean-expression) |
@@ -288,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0678-valid-parenthesis-string) |
 | [0901-online-stock-span](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1021-remove-outermost-parentheses) |
 | [1106-parsing-a-boolean-expression](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1106-parsing-a-boolean-expression) |
 ## Monotonic Stack
 |  |
