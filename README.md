@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0132-palindrome-partitioning-ii) |
+| [0205-isomorphic-strings](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0208-implement-trie-prefix-tree) |
 | [0344-reverse-string](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0344-reverse-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0516-longest-palindromic-subsequence) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
