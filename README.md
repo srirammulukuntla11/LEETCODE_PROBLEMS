@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0044-wildcard-matching) |
 | [0071-simplify-path](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0071-simplify-path) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1707-maximum-xor-with-an-element-from-array) |
