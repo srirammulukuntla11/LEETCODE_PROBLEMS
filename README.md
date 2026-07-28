@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-shortest-common-supersequence](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1092-shortest-common-supersequence) |
 | [1106-parsing-a-boolean-expression](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1106-parsing-a-boolean-expression) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -302,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1021-remove-outermost-parentheses) |
 | [1106-parsing-a-boolean-expression](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1106-parsing-a-boolean-expression) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
