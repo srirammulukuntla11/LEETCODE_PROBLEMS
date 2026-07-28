@@ -1,33 +1,31 @@
 class Solution {
     public String frequencySort(String s) {
 
+        // Step 1: Count frequency of each character
         HashMap<Character, Integer> map = new HashMap<>();
-        for (char c : s.toCharArray()) {
-            map.put(c, map.getOrDefault(c, 0) + 1);
+
+        for (char ch : s.toCharArray()) {
+            map.put(ch, map.getOrDefault(ch, 0) + 1);
         }
 
-        List<Character>[] buckets = new List[s.length() + 1];
+        // Step 2: Convert map to list
+        List<Map.Entry<Character, Integer>> list = new ArrayList<>(map.entrySet());
 
-        for (char c : map.keySet()) {
-            int freq = map.get(c);
-            if (buckets[freq] == null) {
-                buckets[freq] = new ArrayList<>();
-            }
-            buckets[freq].add(c);
-        }
+        // Step 3: Sort by frequency in descending order
+        Collections.sort(list, (a, b) -> b.getValue() - a.getValue());
 
-        StringBuilder sb = new StringBuilder();
+        // Step 4: Build the answer
+        StringBuilder ans = new StringBuilder();
 
-        for (int i = buckets.length - 1; i >= 0; i--) {
-            if (buckets[i] != null) {
-                for (char c : buckets[i]) {
-                    for (int j = 0; j < i; j++) {
-                        sb.append(c);
-                    }
-                }
+        for (Map.Entry<Character, Integer> entry : list) {
+            char ch = entry.getKey();
+            int freq = entry.getValue();
+
+            while (freq-- > 0) {
+                ans.append(ch);
             }
         }
 
-        return sb.toString();
-    }
+        return ans.toString();
+}
 }
