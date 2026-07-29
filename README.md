@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0088-merge-sorted-array) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0044-wildcard-matching) |
 | [0071-simplify-path](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0071-simplify-path) |
@@ -532,5 +534,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
