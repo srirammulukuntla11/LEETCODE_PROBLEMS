@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0044-wildcard-matching) |
 | [0071-simplify-path](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0072-edit-distance) |
