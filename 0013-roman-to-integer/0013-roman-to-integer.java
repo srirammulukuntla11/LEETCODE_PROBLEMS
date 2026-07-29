@@ -15,7 +15,7 @@ class Solution {
 
         for (int i = 0; i < s.length(); i++) {
             int v1 = calculate(s.charAt(i));
-            int v2 = 0; // ✅ reset every iteration
+            int v2 = 0;
 
             if (i + 1 < s.length()) {
                 v2 = calculate(s.charAt(i + 1));
