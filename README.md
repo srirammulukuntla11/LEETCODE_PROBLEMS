@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0208-implement-trie-prefix-tree) |
+| [0214-shortest-palindrome](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0214-shortest-palindrome) |
 | [0224-basic-calculator](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0344-reverse-string) |
@@ -536,5 +537,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0214-shortest-palindrome) |
 | [0796-rotate-string](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0796-rotate-string) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
