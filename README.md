@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0368-largest-divisible-subset) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0132-palindrome-partitioning-ii) |
 | [0205-isomorphic-strings](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0208-implement-trie-prefix-tree) |
+| [0224-basic-calculator](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
@@ -304,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0173-binary-search-tree-iterator) |
+| [0224-basic-calculator](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0224-basic-calculator) |
 | [0496-next-greater-element-i](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0678-valid-parenthesis-string) |
 | [0901-online-stock-span](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0901-online-stock-span) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0509-fibonacci-number) |
 | [1106-parsing-a-boolean-expression](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1106-parsing-a-boolean-expression) |
