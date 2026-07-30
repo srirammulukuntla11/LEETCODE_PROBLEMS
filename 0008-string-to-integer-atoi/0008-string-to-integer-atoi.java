@@ -23,7 +23,7 @@ class Solution {
 
     
             if (sign * res > Integer.MAX_VALUE) return Integer.MAX_VALUE;
-    if (sign * res < Integer.MIN_VALUE) return Integer.MIN_VALUE;
+            if (sign * res < Integer.MIN_VALUE) return Integer.MIN_VALUE;
 
             i++;
         }
