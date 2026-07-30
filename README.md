@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0048-rotate-image) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0036-valid-sudoku) |
+| [0041-first-missing-positive](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0205-isomorphic-strings) |
