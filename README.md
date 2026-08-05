@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1463-cherry-pickup-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1707-maximum-xor-with-an-element-from-array) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2057-smallest-index-with-equal-value](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/2057-smallest-index-with-equal-value) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0509-fibonacci-number) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1903-largest-odd-number-in-string) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/3518-smallest-palindromic-rearrangement-ii) |
