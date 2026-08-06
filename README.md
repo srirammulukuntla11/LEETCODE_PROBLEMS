@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0682-baseball-game) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0867-transpose-matrix) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0678-valid-parenthesis-string) |
+| [0682-baseball-game](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0682-baseball-game) |
 | [0901-online-stock-span](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0059-spiral-matrix-ii) |
+| [0682-baseball-game](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Design
