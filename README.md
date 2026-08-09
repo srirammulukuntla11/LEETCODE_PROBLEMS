@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0867-transpose-matrix) |
+| [0875-koko-eating-bananas](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0912-sort-an-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1043-partition-array-for-maximum-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1043-partition-array-for-maximum-sum) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0875-koko-eating-bananas) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bit Manipulation
 |  |
