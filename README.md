@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0283-move-zeroes) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0085-maximal-rectangle) |
+| [0240-search-a-2d-matrix-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0867-transpose-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1463-cherry-pickup-ii) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0410-split-array-largest-sum) |
@@ -541,6 +544,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
