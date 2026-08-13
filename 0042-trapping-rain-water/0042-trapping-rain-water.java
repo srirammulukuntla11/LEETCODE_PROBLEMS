@@ -11,7 +11,7 @@ class Solution {
               {
                 if(rmax<=lmax)
                 {
-                    int water = rmax - height[right];
+                     int water = rmax - height[right];
                      if(water>0)
                           res=res+water;
                     rmax=Math.max(rmax,height[right]);
