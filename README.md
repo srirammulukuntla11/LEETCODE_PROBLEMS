@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0912-sort-an-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1043-partition-array-for-maximum-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1048-longest-string-chain) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0860-lemonade-change) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
