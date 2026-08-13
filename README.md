@@ -653,4 +653,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0020-valid-parentheses) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
