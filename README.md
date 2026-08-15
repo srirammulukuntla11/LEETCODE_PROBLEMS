@@ -677,4 +677,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0322-coin-change) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
