@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0274-h-index) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0912-sort-an-array) |
 ## Merge Sort
@@ -681,4 +683,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0239-sliding-window-maximum) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
