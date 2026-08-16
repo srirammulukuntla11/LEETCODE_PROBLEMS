@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1043-partition-array-for-maximum-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1048-longest-string-chain) |
+| [1248-count-number-of-nice-subarrays](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1441-build-an-array-with-stack-operations](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1441-build-an-array-with-stack-operations) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1248-count-number-of-nice-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0509-fibonacci-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1903-largest-odd-number-in-string) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -462,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0930-binary-subarrays-with-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0930-binary-subarrays-with-sum) |
 | [1048-longest-string-chain](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1048-longest-string-chain) |
+| [1248-count-number-of-nice-subarrays](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1248-count-number-of-nice-subarrays) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Binary Indexed Tree
 |  |
@@ -706,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1248-count-number-of-nice-subarrays) |
 ## Monotonic Queue
 |  |
 | ------- |
