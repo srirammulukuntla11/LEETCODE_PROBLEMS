@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1539-kth-missing-positive-number) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1707-maximum-xor-with-an-element-from-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0876-middle-of-the-linked-list](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0876-middle-of-the-linked-list) |
 | [1048-longest-string-chain](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1048-longest-string-chain) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0912-sort-an-array) |
 | [1048-longest-string-chain](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1048-longest-string-chain) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1547-minimum-cost-to-cut-a-stick) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Ordered Set
@@ -477,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1048-longest-string-chain) |
 | [1248-count-number-of-nice-subarrays](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Binary Indexed Tree
 |  |
