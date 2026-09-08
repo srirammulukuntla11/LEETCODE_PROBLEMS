@@ -1,26 +1,26 @@
 class Solution {
     public void moveZeroes(int[] nums) {
-        int zeroIndex = -1;
-        int n = nums.length;
-        for(int i = 0;i<n;i++)
-        {
-            if(nums[i] == 0)
+       int first_non_zero = 0;
+       for(int i = 0 ;i < nums.length;i++)
+       {
+         if(nums[i] != 0)
+         {
+            first_non_zero = i;
+            break;
+         }
+
+       }
+       int left = -1;
+       for(int i = first_non_zero;i<nums.length;i++)
+       {
+            if(nums[i] != 0)
             {
-                zeroIndex = i;
-                break;
+                left++;
+                int temp = nums[left];
+                nums[left] = nums[i];
+                nums[i] = temp;
             }
-        }
-        if(zeroIndex == -1) return;
-        for(int j = zeroIndex+1;j<n;j++)
-        {
-            if(nums[j]!=0)
-            {
-                int temp = nums[j];
-                nums[j] = nums[zeroIndex];
-                nums[zeroIndex] = temp;
-                zeroIndex++;
-            }
-        }
+       }
 
     }
 }
