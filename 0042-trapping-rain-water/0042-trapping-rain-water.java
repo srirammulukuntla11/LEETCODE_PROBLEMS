@@ -1,41 +1,27 @@
 class Solution {
     public int trap(int[] arr) {
-              int n = arr.length;
+        int left = 0;
+        int right = arr.length - 1;
         int lmax = 0;
         int rmax = 0;
         int total = 0;
-        int l = 0;
-        int r = n - 1;
-        while(l < r)
+        while(left <= right)
         {
-            if(arr[l] <= arr[r])
+            if(arr[left] <= arr[right])
             {
-                if(lmax > arr[l])
-                {
-                    total+=lmax-arr[l];
-                }
-                else
-                {
-                    lmax = arr[l];
-                }
-                l++;
+                lmax = Math.max(lmax,arr[left]);
+                total+=(lmax-arr[left]);
+                left++;
+                
             }
             else
             {
-                if(rmax > arr[r])
-                {
-                    total+=rmax-arr[r];
-                    
-                }
-                else
-                {
-                    rmax = arr[r];
-                    
-                }
-                r--;
+                rmax = Math.max(rmax,arr[right]);
+                total+=(rmax-arr[right]);
+                right--;
             }
         }
         return total;
-       
     }
+
 }
