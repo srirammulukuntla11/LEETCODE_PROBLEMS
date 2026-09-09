@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-smallest-index-with-equal-value](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/2057-smallest-index-with-equal-value) |
 | [2104-sum-of-subarray-ranges](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2614-prime-in-diagonal](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/2614-prime-in-diagonal) |
 | [3033-modify-the-matrix](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/3033-modify-the-matrix) |
 ## Prefix Sum
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Binary Indexed Tree
 |  |
@@ -760,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Monotonic Queue
 |  |
 | ------- |
