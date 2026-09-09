@@ -21,8 +21,9 @@ class Solution {
                     int max_value = findMaxValue(matrix,j);
                     result[i][j] = max_value;
                 }
-                else{
-                result[i][j] = matrix[i][j];
+                else
+                {
+                    result[i][j] = matrix[i][j];
                 }
             }
         }
