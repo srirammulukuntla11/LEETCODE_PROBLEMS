@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2614-prime-in-diagonal](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/2614-prime-in-diagonal) |
+| [3033-modify-the-matrix](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/3033-modify-the-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1277-count-square-submatrices-with-all-ones](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1463-cherry-pickup-ii) |
 | [2614-prime-in-diagonal](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/2614-prime-in-diagonal) |
+| [3033-modify-the-matrix](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/3033-modify-the-matrix) |
 ## Two Pointers
 |  |
 | ------- |
