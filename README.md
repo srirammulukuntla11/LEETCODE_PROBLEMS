@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0496-next-greater-element-i) |
+| [0498-diagonal-traverse](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0540-single-element-in-a-sorted-array) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0240-search-a-2d-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0867-transpose-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1463-cherry-pickup-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1463-cherry-pickup-ii) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0059-spiral-matrix-ii) |
+| [0498-diagonal-traverse](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0735-asteroid-collision) |
 | [0867-transpose-matrix](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0867-transpose-matrix) |
