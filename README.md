@@ -678,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0620-not-boring-movies) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1068-product-sales-analysis-i](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1068-product-sales-analysis-i) |
 | [1211-queries-quality-and-percentage](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1211-queries-quality-and-percentage) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1683-invalid-tweets) |
