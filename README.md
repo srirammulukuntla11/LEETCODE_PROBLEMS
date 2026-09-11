@@ -688,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1068-product-sales-analysis-i) |
 | [1211-queries-quality-and-percentage](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1211-queries-quality-and-percentage) |
+| [1251-average-selling-price](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
