@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0724-find-pivot-index](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0735-asteroid-collision) |
 | [0860-lemonade-change](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0867-transpose-matrix) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1248-count-number-of-nice-subarrays) |
