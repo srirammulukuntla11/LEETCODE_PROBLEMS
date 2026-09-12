@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0498-diagonal-traverse) |
 | [0503-next-greater-element-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0518-coin-change-ii) |
+| [0523-continuous-subarray-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0523-continuous-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0410-split-array-largest-sum) |
+| [0523-continuous-subarray-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0930-binary-subarrays-with-sum) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1903-largest-odd-number-in-string) |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0904-fruit-into-baskets) |
@@ -803,4 +807,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0052-n-queens-ii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
