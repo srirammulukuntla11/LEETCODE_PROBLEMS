@@ -823,4 +823,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0523-continuous-subarray-sum) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
