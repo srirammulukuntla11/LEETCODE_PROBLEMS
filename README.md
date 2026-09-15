@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0541-reverse-string-ii) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0523-continuous-subarray-sum) |
@@ -804,6 +806,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0930-binary-subarrays-with-sum) |
