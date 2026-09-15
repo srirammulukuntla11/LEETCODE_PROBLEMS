@@ -280,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0680-valid-palindrome-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0680-valid-palindrome-ii) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0541-reverse-string-ii) |
+| [0567-permutation-in-string](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0678-valid-parenthesis-string) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0930-binary-subarrays-with-sum) |
@@ -807,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0930-binary-subarrays-with-sum) |
