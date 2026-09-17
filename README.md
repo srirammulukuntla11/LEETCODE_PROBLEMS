@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0162-find-peak-element) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0132-palindrome-partitioning-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0198-house-robber) |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0208-implement-trie-prefix-tree) |
@@ -525,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0160-intersection-of-two-linked-lists) |
@@ -598,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0208-implement-trie-prefix-tree) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1707-maximum-xor-with-an-element-from-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1707-maximum-xor-with-an-element-from-array) |
@@ -669,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0509-fibonacci-number) |
 ## Divide and Conquer
 |  |
@@ -847,4 +853,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0416-partition-equal-subset-sum) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
