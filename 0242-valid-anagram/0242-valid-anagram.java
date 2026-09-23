@@ -20,9 +20,9 @@ class Solution {
                 return false;
             }
             mpp.put(ch,mpp.get(ch)-1);
-            if(mpp.get(ch) < 0)
+            if(mpp.get(ch) <= 0)
             {
-                return false;
+                mpp.remove(ch);
             }
         }
         return true;
