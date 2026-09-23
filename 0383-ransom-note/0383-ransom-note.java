@@ -19,7 +19,7 @@ class Solution {
         }
         for(char ch : ransomNote.toCharArray())
         {
-            if(!mpp.containsKey(ch) || mpp.get(ch) == 0)
+            if(!mpp.containsKey(ch) || mpp.get(ch) <= 0)
             {
                 return false;
             }
