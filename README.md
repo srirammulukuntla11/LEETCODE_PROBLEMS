@@ -420,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0424-longest-repeating-character-replacement) |
@@ -542,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0383-ransom-note) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0424-longest-repeating-character-replacement](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0229-majority-element-ii) |
 | [0274-h-index](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0274-h-index) |
+| [0383-ransom-note](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0912-sort-an-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0992-subarrays-with-k-different-integers) |
