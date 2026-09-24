@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0560-subarray-sum-equals-k) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0713-subarray-product-less-than-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0724-find-pivot-index) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0498-diagonal-traverse) |
+| [0695-max-area-of-island](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0695-max-area-of-island) |
 | [0766-toeplitz-matrix](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0867-transpose-matrix) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0695-max-area-of-island) |
 ## Backtracking
 |  |
 | ------- |
@@ -666,6 +669,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0695-max-area-of-island) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Iterator
 |  |
@@ -754,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0695-max-area-of-island) |
 ## Data Stream
 |  |
 | ------- |
