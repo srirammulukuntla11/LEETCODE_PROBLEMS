@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0213-house-robber-ii) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0085-maximal-rectangle) |
 | [0174-dungeon-game](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0174-dungeon-game) |
+| [0200-number-of-islands](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0498-diagonal-traverse) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0322-coin-change) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Backtracking
@@ -659,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0099-recover-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -749,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/srirammulukuntla11/LEETCODE_PROBLEMS/tree/master/0200-number-of-islands) |
 ## Data Stream
 |  |
 | ------- |
